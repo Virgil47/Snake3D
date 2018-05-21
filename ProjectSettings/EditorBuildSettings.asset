@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: ab8bb0e8925edcd498f16ba8be0ce33c
+  - enabled: 1
+    path: Assets/SnakeOne.unity
+    guid: aa5f5552615346d4894fc739c05bbe36
+  - enabled: 1
+    path: Assets/Profile.unity
+    guid: ae070fef8a8ca314db20041dca94e90c
